@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pal">
+    <output-path>$PROJECT_DIR$/out/artifacts/pal</output-path>
+    <root id="archive" name="pal.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Pocket App Launcher (PAL)" />
+    </root>
+  </artifact>
+</component>
